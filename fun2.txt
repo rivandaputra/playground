@@ -273,6 +273,8 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 https://edge.taghtia.com/sa/7.m3u8
 #EXTINF:-1  tvg-name="MEDINA TV" tvg-id="" tvg-logo="https://i.imgur.com/xq2Hx7a.png" group-title="TV RELIGI" :http-referrer="",MEDINA TV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1  tvg-name="RODJA TV" tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/Rodja_TV.png" group-title="TV RELIGI" :http-referrer="",RODJA TV
+https://rodjatv.com/rodjatv/live.m3u8
 
 ##########################NEWS##########################
 
