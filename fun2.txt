@@ -477,7 +477,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://liveaneviadev.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png",Animax Indo
-http://210.210.155.35/dr9445/h/h144/01.m3u8
+https://av-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/XtS10LN/Aniplushd.png",Aniplus
 https://cdn.renotv.my.id/get.m3u8?ch=NTliZDU3OTliM2ExNzVhOTc0OXhNcG05QWhSNmJTT3N0THZIL3BCUXpGUVlOR3JUNWhLZTBzbENFcnQ1VXFKdXc2YjdUWkFQclppRzM5SnYvZTllVHVRWHl6VjFHcit4NHYrVnhXU1YzMzRIc0EycW5qOExXdk9jU3hBPQ==
