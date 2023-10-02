@@ -380,6 +380,21 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #EXTINF:0 tvg-id="ParamountNetwork" tvg-logo="https://id.wikipedia.org/wiki/Rock_Action#/media/Berkas:Rock_Action.png" group-title="Movies",Paramount Network
 https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzM3MGY3N2QtYjU5NC0zMDk5LWEyMzgtYTUwZWYxMWUyZjZj
+#EXTINF:0 tvg-id="MyCinema" tvg-logo="https://id.wikipedia.org/wiki/Rock_Action#/media/Berkas:Rock_Action.png" group-title="Movies",MyCinema
+https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzM3MGY3N2QtYjU5NC0zMDk5LWEyMzgtYTUwZWYxMWUyZjZj
+#EXTINF:0 tvg-id="MyCinemaAsia" tvg-logo="https://id.wikipedia.org/wiki/Rock_Action#/media/Berkas:Rock_Action.png" group-title="Movies",MyCinema Asia
+https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzM3MGY3N2QtYjU5NC0zMDk5LWEyMzgtYTUwZWYxMWUyZjZj
+#EXTINF:0 tvg-id="MyFamily" tvg-logo="https://id.wikipedia.org/wiki/Rock_Action#/media/Berkas:Rock_Action.png" group-title="Movies",MyFamily
+https://nyanv-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
+
 #======== NEWS ========#
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -685,6 +700,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:0 tvg-id="CrimeInvestigation.Id" tvg-logo="https://cdn.ksa.my.id/crimeinvestigation.png" group-title="Knowledge",Crime Investigation
 https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzM3MGY3N2QtYjU5NC0zMDk5LWEyMzgtYTUwZWYxMWUyZjZj
+#EXTINF:0 tvg-id="OutdoorChannel" tvg-logo="https://id.wikipedia.org/wiki/Rock_Action#/media/Berkas:Rock_Action.png" group-title="Knowledge",Outdoor Channel
+https://nyanv-live-cdn.mncnow.id/live/eds/outdoorchannel/sa_dash_vmx/outdoorchannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzM3MGY3N2QtYjU5NC0zMDk5LWEyMzgtYTUwZWYxMWUyZjZj
+#EXTINF:0 tvg-id="LoveNature" tvg-logo="https://id.wikipedia.org/wiki/Rock_Action#/media/Berkas:Rock_Action.png" group-title="Knowledge",Love Nature
+https://nyanv-live-cdn.mncnow.id/live/eds/lovenature/sa_dash_vmx/lovenature.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
