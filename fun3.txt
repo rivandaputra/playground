@@ -207,11 +207,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 #EXTINF:0 tvg-id="NHKWorldPremium.Id" tvg-logo="https://cdn.ksa.my.id/nhkpremium.png" group-title="Entertainment",NHK World Premium
 https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://kamiselaluada.com/img/blueantentertainment.png",Blue Ant
-http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://kamiselaluada.com/img/blueantextreme.png",Blue Ant Extreme
-http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:0 tvg-id="Rockentertainment" tvg-logo="https://id.m.wikipedia.org/wiki/Berkas:Rock_Entertainment.png" group-title="Movies",Rock Entertainment
+https://nyanv-live-cdn.mncnow.id/live/eds/rockentertainment/sa_dash_vmx/rockentertainment.mpd
 
 #======== KIDS ========#
 
@@ -345,6 +344,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mp
 
 #EXTINF:-1 tvg-id="KPlus.MACAN" tvg-name="Kplus" tvg-logo="https://i.ibb.co/smpNq8Z/xgnf.png" group-title="Movies",K+
 http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:0 tvg-id="Rockaction" tvg-logo="https://id.wikipedia.org/wiki/Rock_Action#/media/Berkas:Rock_Action.png" group-title="Movies",Rock Action
+https://nyanv-live-cdn.mncnow.id/live/eds/rockaction/sa_dash_vmx/rockaction.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:0 tvg-id="Cinemachi" tvg-logo="https://id.wikipedia.org/wiki/Rock_Action#/media/Berkas:Rock_Action.png" group-title="Movies",Cinemachi
+https://nyanv-live-cdn.mncnow.id/live/eds/cinemachi/sa_dash_vmx/cinemachi.mpd
 
 #======== NEWS ========#
 
