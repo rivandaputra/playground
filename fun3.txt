@@ -209,6 +209,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPr
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzM3MGY3N2QtYjU5NC0zMDk5LWEyMzgtYTUwZWYxMWUyZjZj
+#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0 tvg-id="RockEntertainment" tvg-logo="https://id.m.wikipedia.org/wiki/Berkas:Rock_Entertainment.png" group-title="Entertainment",Rock Entertainment
 https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
