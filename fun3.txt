@@ -6,13 +6,13 @@
 #EXTINF:0 tvg-id="TVRI.Id" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="Lokal",TVRI
 https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-#EXTINF:0 group-title="Lokal" tvg-logo="https://i.imgur.com/wIh3qZo.png",TVRI Jawa Timur
+#EXTINF:0 tvg-id="TVRI.jatim" group-title="Lokal" tvg-logo="https://i.imgur.com/wIh3qZo.png",TVRI Jawa Timur
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 
-#EXTINF:0 group-title="Lokal" tvg-logo="https://i.imgur.com/wIh3qZo.png",TVRI Sport
+#EXTINF:0 tvg-id="TVRI.sport" group-title="Lokal" tvg-logo="https://i.imgur.com/wIh3qZo.png",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:0 group-title="Lokal" tvg-logo="https://i.imgur.com/wIh3qZo.png",TVRI World
+#EXTINF:0 tvg-id="TVRI.world" group-title="Lokal" tvg-logo="https://i.imgur.com/wIh3qZo.png",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
