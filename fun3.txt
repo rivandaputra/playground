@@ -1040,9 +1040,8 @@ https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 #EXTINF:0 tvg-id="MusicTV.Id" tvg-logo="https://cdn.ksa.my.id/musictv.png" group-title="Music",Music TV
 https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTVLCOPT:http-referrer=https://gen1031fm.com
 #EXTINF:0 tvg-id="gen1031fm" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f3/Logo_Gen_FM_Surabaya.png/200px-Logo_Gen_FM_Surabaya.png" group-title="Music",Gen 103.1 FM Sby
-https://wz.mari.co.id:1936/web_genfmsby/gensbyic.stream/playlist.m3u8
+https://proxy.beta.noice.id/proxy-v1/103.246.184.62:1935/noice_genfmsby/gensbyic.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G9ZcGMK/prambors.png" group-title="Music", Prambors
 http://xtv.ooo:8080/3212571066/abc123/351020
