@@ -52,8 +52,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 ##https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 ##https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|referer=https://www.visionplus.id
 ##https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
-##https://video.detik.com/trans7/smil:trans7.smil/chunklist_w961665553_b344100_sleng.m3u8
-https://arjuna.trans7.co.id/Trans7-L1v3stream/index.fmp4.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w961665553_b744100_sleng.m3u8
+##https://arjuna.trans7.co.id/Trans7-L1v3stream/index.fmp4.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
