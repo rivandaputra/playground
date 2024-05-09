@@ -923,7 +923,6 @@ https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 https://video1.earthcam.com/myearthcam/d5ef1d7b87b8ac461e3d26b6cd525a60.flv/playlist.m3u8
 
 #EXTINF:-1 group-title="Religi" tvg-id="khbtv.id" tvg-logo="https://iptv.urfan.web.id/logo/khbtv.png",KHB TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ythls.armelin.one/channel/UCJHC3VbFsp7kJ2NxPGltwiw.m3u8
 
 #EXTINF:-1 group-title="Religi" tvg-id="rifqantv.id" tvg-logo="https://iptv.urfan.web.id/logo/rifqantv.png",Rifqan TV
